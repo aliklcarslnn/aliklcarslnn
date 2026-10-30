@@ -8,7 +8,7 @@ Based in Ankara, Türkiye. Currently a Software Engineer at Ankara Metropolitan 
 
 ## Resume
 
-[View my English resume (PDF)](./Ali_Kilicarslan_US_Resume_EN.pdf)
+[View my English resume (PDF)](https://github.com/aliklcarslnn/aliklcarslnn/blob/main/Ali_Kilicarslan_US_Resume_EN.pdf)
 
 ## Connect
 
