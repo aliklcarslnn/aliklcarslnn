@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ali Kılıçarslan
 
-<!--
-**aliklcarslnn/aliklcarslnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | .NET · Flutter · Enterprise Integrations**
 
-Here are some ideas to get you started:
+I build mobile and web applications, backend services, and database integrations that support real operational workflows. My work spans C# / ASP.NET Core, Flutter / Dart, Oracle / PL-SQL, SQL-backed applications, and device integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Ankara, Türkiye. Currently a Software Engineer at Ankara Metropolitan Municipality.
+
+## Resume
+
+[View my English resume (PDF)](./Ali_Kilicarslan_US_Resume_EN.pdf)
+
+## Connect
+
+- [Portfolio](https://alikilicarslan.alleyyazilim.com/)
+- [LinkedIn](https://www.linkedin.com/in/ali-k%C4%B1l%C4%B1%C3%A7arslan-39a0992b2/)
+
+Professional and public-sector project source code is kept private. This repository contains only my professional profile and resume.
